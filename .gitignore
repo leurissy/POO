@@ -1,0 +1,104 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+*.xml
+*.mf
+*.iml
+*.properties
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# EXTRAS
+*.zip
+*.pdf
+*.txt
+*.rar
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+/Liquidificador/nbproject/private/
+/Liquidificador/build/
+/Pessoa/nbproject/private/
+/Pessoa/build/
+/Veiculo/nbproject/private/
+/Conta/nbproject/private/
+/Conta/build/
+/media_array/nbproject/private/
+/media_array/build/
+/dobroArray/nbproject/private/
+/dobroArray/build/
+/ArrayBool/nbproject/private/
+/ArrayBool/build/
+/Empregado/nbproject/private/
+/Empregado/build/
+/PROVAI/nbproject/private/
+/PROVAI/build/
+/SistemaBanco/nbproject/private/
+/SistemaBanco/build/
+/SistemaBanco/dist/
+/AulaEntradaDeDados/nbproject/private/
+/AulaEntradaDeDados/build/
+/Interface/nbproject/private/
+/CalculadorGUI/nbproject/private/
+/CalculadorGUI/build/
+/Listeners/nbproject/private/
+/Listeners/build/
+/TryCath/nbproject/private/
+/TryCath/build/
+/Excecoes/nbproject/private/
+/Excecoes/build/
+/AulaExcecao/build/
+/AulaExcecao/nbproject/private/
+/Threads/nbproject/private/
+/Threads/build/
+/MatrizThread/nbproject/private/
+/MatrizThread/build/
+/ProdutorThread/nbproject/private/
+/GRASP/nbproject/private/
